@@ -59,3 +59,6 @@ git config --global user.email ваша почта@example.com
 `git checkout 6f54e8e` - где _6f54e8e_ это первые 7 символов id коммита на который происходит переключение.
 
 `git checkout master` - где _master_ это имя ветки.
+
+## 11. Игнорирование файлов.
+
