@@ -72,3 +72,27 @@ For delay conflicts on merging 2 branches interface VS help u choose correct var
 And, finally, delete branch u can with command __"git branch -d "name_branch""__ (d - delete. D - deep clean from cash. ![word](word.PNG))
 
 # ***Good luck!***
+
+Upd (10.12.2022):
+
+# Work with remote repo
+
+## How to push local repo in GitHun
+
+1. Create account on GitHub
+2. Create local repo
+3. "Friend" local and "Deleted repo"/ GitHub on creating new repo help u with it.
+4. Send (*git push*) your local repo in GitHub. Maybe, u need to register on delete repo.
+5. Go back on other PC.
+6. For load on remote repo in local (on PC) - load (command *git pull*) actual condition on other repo.
+
+## How to add pull request on repo, how we "Forked" on GitHub
+
+1. "Forked" file u need open in your account on GitHub (next GH)
+2. Copy to link on repo - press "Code" and copy
+3. In local repo after "pulling" and "redacting", u need to send command **git push -u <name repo> <link on GH>**
+Warning! Just using command **git push** can do not "send" changes on GH. Use command up.
+* **"-u"** mean - **--set-upstream**
+4. Go to GH and knocked **Compare & pull request**
+
+### Good job.
