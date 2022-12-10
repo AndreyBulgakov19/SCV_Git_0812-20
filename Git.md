@@ -264,7 +264,7 @@ git commit -m 'Комментарий'
 Теперь переносим изменения на удаленный репозиторий
 
 ```
-git push -u origin main
+git push -u origin <имя ветки>
 ```
 
 Далее переходим за Github нажимаем кнопку **pull request**
