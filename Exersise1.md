@@ -93,6 +93,10 @@ Upd (10.12.2022):
 3. In local repo after "pulling" and "redacting", u need to send command **git push -u <name repo> <link on GH>**
 Warning! Just using command **git push** can do not "send" changes on GH. Use command up.
 * **"-u"** mean - **--set-upstream**
+Someone words on "pulling" repo fron GH - good rule on redicting repo - do changes on other branch. So, saved files in your local repo u need to do onnew branch. (Course, u need to placement on her.) 
+
+***on autor - sorry, mb this description someone confusing and no comfortable)))**
+
 4. Go to GH and knocked **Compare & pull request**
 
 ### Good job.
