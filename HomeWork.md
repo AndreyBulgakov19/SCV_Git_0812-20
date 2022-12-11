@@ -133,6 +133,7 @@ git push -u origin Name - Отправляем локальные изменен
 Комманда `git remote` - показывает какой удаленный репозиторий привязан, `git remote -v` - тоже самое только еще показывает url адреса.
 
 После этой комманды выполняем `git push -u origin Name`
+
 ![logo](Git-Logo-1788C.png)
 
 **Дополнительная информаия о языке Markdown доступна по ссылке** https://learn.microsoft.com/ru-ru/contribute/markdown-reference.
